@@ -7,9 +7,8 @@ import SecondCounter from "./SecondCounter.jsx";
 const Home = () => {
 	return (
 		<div>
-		
-			<SecondCounter />
 
+			<SecondCounter />
 
 		</div>
 	);

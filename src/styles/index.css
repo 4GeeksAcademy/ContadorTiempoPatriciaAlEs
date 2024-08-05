@@ -2,14 +2,16 @@
     background-color: black;
     color: white;
     margin: auto;
-    height: 20vh;
+
     font-size: 10vh;
     margin-top: 15px;
     text-align: center;
     padding: 15px;
-    height: auto;
-    grid-gap: 20px 20px;
+
+    grid-gap: 5px 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
 }
 
 .icono,
@@ -22,8 +24,6 @@
     border-radius: 15px;
     background-color: rgba(99, 96, 96, 0.199);
     border: 1px solid rgb(39, 39, 39)
-    
-
 }
 
 /* 
